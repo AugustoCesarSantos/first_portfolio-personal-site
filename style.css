@@ -1,0 +1,83 @@
+.hero{
+    background: #1B0C2E ;
+    background: linear-gradient(180deg, #1B0C2E  0%, rgb(31, 15, 38) 40%, rgb(31, 32, 32) 100%);
+}
+
+p{
+    color:#F6F1F1   ;
+    font-style: normal;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    font-family: "Montserrat", sans-serif;
+}
+
+h5{
+    letter-spacing: 3px;
+    color: #F6F1F1;
+}
+
+.rodape{
+    background-color: #1B0C2E;
+    
+}
+
+.hello{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 5px;
+    color: #352F44;
+}
+.pc-gif{
+    border-radius: 10px;    
+    border: solid #F6F1F1;
+    width: 40%;
+}
+
+.text-body-emphasis{
+    color: #352F44;
+}
+
+.sobre{
+    color: #B9B4C7;
+    letter-spacing: 2px;
+    padding: 2px;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 1.1em;
+    text-justify:distribute;
+}
+
+.sobre2{
+    color: #B9B4C7;
+}
+
+.in-cv{
+    width: 60%
+}
+
+i{
+width: 150%;
+}
+
+.stack{
+    color: #B9B4C7;
+    font-size: 5px;
+    
+}
+
+.carousel-item{
+    border: solid #F6F1F1 5px;
+    border-radius: 20px; 
+}
+
+
+.d-block{
+    border-radius: 20px;    
+}
+
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Barriecito', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Zilla Slab', serif;
